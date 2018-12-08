@@ -1,0 +1,5 @@
+.paragraf {color: red;}
+#kursywa {color: aqua;}
+.container  p {color: green;}
+.paragraf1 + p{color: mediumblue;}
+.paragraf1 ~ p{color: chocolate;}

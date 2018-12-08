@@ -1,16 +1,16 @@
 /*
     Dla wszystkich paragrafów (p) oraz kursyw (i) ustaw rodzaj czcionki na Arial Narrow
     atrybuty do wykorzystania:
-        font-family: "Arial Narrow";
-*/
 
+*/
+p,i {font-family: "Arial Narrow";}
 
 /*
     Dla nagłówka h1 o id header ustaw kolor czcionki na czerwony
     atrybuty do wykorzystania:
         color: red;
 */
-
+h1 {color: red}
 
 /*
     Dla elementu blokowego o klasie box ustaw wysokość i kolor tła
